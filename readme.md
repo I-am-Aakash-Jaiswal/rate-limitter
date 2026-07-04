@@ -18,7 +18,6 @@ Example:
 
 ```text
 /api/user/get   ✅ Rate Limited
-/api/health     ❌ Not Rate Limited
 /api/products   ❌ Not Rate Limited
 ```
 
@@ -27,7 +26,7 @@ Example:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/I-am-Aakash-Jaiswal/rate-limitter.git
 cd Rate-limitter
 ```
 
